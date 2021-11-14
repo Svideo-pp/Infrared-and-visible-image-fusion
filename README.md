@@ -1,4 +1,4 @@
-# Infrared-and-visible-image-fusion
+# Infrared and visible image fusion
 ## About
 This is a repository for our Year 2 Project, which counts to 56% grade of ELEC222. Our Academic Advisor is Professor Yaochun Shen.
 
