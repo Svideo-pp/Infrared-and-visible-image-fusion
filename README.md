@@ -19,4 +19,4 @@ Infrared and visible image fusion can produce a composite image that is more inf
 - Feifan Chen @Svideo-pp
 - Chenyang Jiang
 - Minyuan Gu @Oreo-Kingdom
-- Lige Dong
+- Lige Dong @DLGGGGG
