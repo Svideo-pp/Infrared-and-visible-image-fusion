@@ -17,6 +17,6 @@ Infrared and visible image fusion can produce a composite image that is more inf
 ## Group Members
 - Yunfang Hou @Yunfang Hou
 - Feifan Chen @Svideo-pp
-- Chenyang Jiang
 - Minyuan Gu @Oreo-Kingdom
 - Lige Dong @DLGGGGG
+- Chenyang Jiang @JCY1234
